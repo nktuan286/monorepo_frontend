@@ -32,3 +32,13 @@ Shared components can be used within a project by adding the following dependenc
 You can then use the shared components by importing them. E.g for the Modal component you would use:
 
 ### `import { Modal } from '@collies/shared'`
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+To start web project
+```
+yarn run start:web
+```
+To run test
+```
+yarn run test:shared
+```
