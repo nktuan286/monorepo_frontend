@@ -49,5 +49,6 @@ To run test
 ```
 yarn run test:shared
 ```
+![image](https://github.com/nktuan286/colliestudio_fe_test/assets/26763848/6587d7a0-145f-4051-b9b3-409988e95246)
 <img width="406" alt="modal-1" src="https://github.com/nktuan286/colliestudio_fe_test/assets/26763848/5c8f4504-3be9-4a31-a337-17242073e62f">
 <img width="636" alt="modal-accessibility" src="https://github.com/nktuan286/colliestudio_fe_test/assets/26763848/6cdec32e-eb46-4548-9655-fe6a4b2a8ec6">
