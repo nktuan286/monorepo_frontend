@@ -1,0 +1,14 @@
+{
+  "name": "@collies/monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start:web": "yarn --cwd packages/web start",    
+    "build:web": "yarn --cwd packages/web build",
+    "test:web": "yarn --cwd packages/web test",
+    "eject:web": "yarn --cwd packages/web eject",
+    "test:shared": "yarn --cwd packages/shared test"
+  }
+}

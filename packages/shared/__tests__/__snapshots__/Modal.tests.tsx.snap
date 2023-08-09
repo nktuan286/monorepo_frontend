@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Modal /> Tests Render <Modal /> with out crash 1`] = `
+<div>
+  <div
+    class="sc-gEvEer sc-iGgWBj esOBjJ eKTvWW"
+  >
+    <a
+      class="sc-gsFSXq egIMRp"
+      id="btn-close-modal"
+    />
+    <div
+      class="sc-gEvEer sc-eqUAAy sc-jXbUNg esOBjJ bWNTFc dWQDrZ"
+    >
+      <div
+        aria-labelledby="modal-title"
+        aria-live="assertive"
+        aria-modal="true"
+        class="sc-dhKdcB glQfRO"
+      >
+        <span
+          class="sc-kpDqfm fBVlTq"
+          id="modal-title"
+        >
+          Modal title
+        </span>
+        <a
+          aria-label="Close"
+          class="sc-kAyceB hcSyvB"
+        >
+          <i
+            class="sc-dcJsrY sc-imWYAI bxoAal ipvehj mi-close"
+          />
+        </a>
+      </div>
+      This is content of modal
+    </div>
+  </div>
+</div>
+`;
