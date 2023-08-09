@@ -1,6 +1,13 @@
 # Candidate name:
 Tuan Nguyen
 
+# Submission:
+This submission will include
+ - Component API design (monorepo workspace style)
+ - Accessibility
+ - Testing
+ - Animation when opening or closing Modal
+
 # Explaination:
 The monorepo is a yarn workspace containing ReactJS projects in the packages folder.
 
