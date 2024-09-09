@@ -1,5 +1,3 @@
-# Candidate name:
-Tuan Nguyen
 
 # Submission:
 This submission will include
